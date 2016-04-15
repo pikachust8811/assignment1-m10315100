@@ -108,7 +108,7 @@
 
 #Data Sources
 
-The crawler is logstash to collect data.
+The crawler is using logstash to collect data.
  * Keywords : ["熊本地震" , "熊本" , "地震" , "日本" , "japan earthquake" ,"#日本大地震" ,"earthquake" , "japan" , "Japan"]
  
 
